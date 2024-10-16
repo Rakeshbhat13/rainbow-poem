@@ -3,6 +3,7 @@ pink
 orange 
 red 
 purple
-violet 
+violet
+yellow
 green
 this is my poem
